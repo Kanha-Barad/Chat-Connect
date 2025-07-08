@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98767185642",
+    "project_id": "chatconnect-b5073",
+    "storage_bucket": "chatconnect-b5073.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98767185642:android:de560678d0cde974a89993",
+        "android_client_info": {
+          "package_name": "com.overtidea.chatconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkEbwdptcPmlTJLDHhemYO2Yweza6l6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
